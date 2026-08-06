@@ -1,0 +1,25 @@
+# Competition data — not redistributable
+data/*
+!data/.gitkeep
+!data/README.md
+
+# Generated submissions
+submissions/*
+!submissions/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

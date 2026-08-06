@@ -1,0 +1,17 @@
+# Core
+numpy>=1.24,<3.0
+pandas>=2.0
+scikit-learn>=1.3
+
+# Models
+scikit-survival>=0.22        # GradientBoostingSurvivalAnalysis, Surv
+lightgbm>=4.0                # per-horizon IPCW classifiers
+
+# Plots (EDA and feature-importance sections of the notebook)
+matplotlib>=3.7
+
+# Notebook (optional — only needed to open notebooks/ locally)
+jupyter>=1.0
+
+# Tests (optional)
+pytest>=7.4
