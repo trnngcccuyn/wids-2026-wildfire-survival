@@ -223,12 +223,10 @@ Four of us, working across the whole pipeline rather than splitting it into owne
 
 | Name | Links |
 |---|---|
-| *Name 1* | [GitHub](#) · [LinkedIn](#) |
-| *Name 2* | [GitHub](#) · [LinkedIn](#) |
-| *Name 3* | [GitHub](#) · [LinkedIn](#) |
-| *Name 4* | [GitHub](#) · [LinkedIn](#) |
-
-<!-- Replace the placeholders above before publishing. -->
+| Tran Ngoc Cac Uyen | [GitHub](https://github.com/trnngcccuyn) |
+| Nguyen Hong Linh | [GitHub](https://github.com/HLiuga05) |
+| Nguyen Dieu Le | [GitHub](https://github.com/dieule-0810) |
+| Le Minh Phuc Tien | [GitHub](https://github.com/TienLe-0207) |
 
 ---
 

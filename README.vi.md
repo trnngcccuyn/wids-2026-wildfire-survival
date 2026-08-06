@@ -225,12 +225,10 @@ Bốn thành viên, cùng làm trên toàn bộ pipeline thay vì chia phần ri
 
 | Tên | Liên kết |
 |---|---|
-| *Tên 1* | [GitHub](#) · [LinkedIn](#) |
-| *Tên 2* | [GitHub](#) · [LinkedIn](#) |
-| *Tên 3* | [GitHub](#) · [LinkedIn](#) |
-| *Tên 4* | [GitHub](#) · [LinkedIn](#) |
-
-<!-- Thay các chỗ trống ở trên trước khi public repo. -->
+| Trần Ngọc Các Uyên | [GitHub](https://github.com/trnngcccuyn) |
+| Nguyễn Hồng Linh | [GitHub](https://github.com/HLiuga05) |
+| Nguyễn Diệu Lê | [GitHub](https://github.com/dieule-0810) |
+| Lê Minh Phúc Tiên | [GitHub](https://github.com/TienLe-0207) |
 
 ---
 
